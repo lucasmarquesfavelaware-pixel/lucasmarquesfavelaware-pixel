@@ -1,16 +1,13 @@
-## Hi there 👋
+## Oi,eu sou o Lucas Marques
+___
 
-<!--
-**lucasmarquesfavelaware-pixel/lucasmarquesfavelaware-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou fazendo curso de programação na [favela ware](https://favelaware.animahub.com.br/home) no Brasil
 
-Here are some ideas to get you started:
+No curso da [favela ware](https://favelaware.animahub.com.br/home) estamos aprendendo como programar usando Java Script,aprendendo sobre html e css :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eu atualmente estou no 1º ano do ensino médio e tenho 16 anos
+
+### linguagens
+          
+          
+          
