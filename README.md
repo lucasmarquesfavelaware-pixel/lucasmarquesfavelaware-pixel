@@ -7,6 +7,8 @@ No curso da [favela ware](https://favelaware.animahub.com.br/home) estamos apren
 
 Eu atualmente estou no 1º ano do ensino médio e tenho 16 anos
 
+numero de contato: +55 (31)98334-9660
+
 ### linguagens
 <img 
 align="left"
